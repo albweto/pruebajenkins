@@ -10,6 +10,7 @@
     </parent>
     <groupId>mx.com.gm</groupId>
     <artifactId>ControlClentes</artifactId>
+    <packaging>war</packaging>
     <version>1.0</version>
     <name>ControlClientes</name>
     <description>HolaMundo con Spring</description>
